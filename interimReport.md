@@ -611,10 +611,13 @@ gym 환경의 frozen lake 게임을 생각해보자. 에이전트에게 시킨 a
 
 
 
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/08820807-0fa7-42c4-bc95-7d349a6c2119/a7be3b4c-0ec7-43cb-89b9-28167287a97e/Untitled.png)
 
 $M(\pi_i)$는 다음과 같이 정이되었다.
 
 정책이 향상됨을 가정하게 되면 아래 부등식이 성립하게 된다.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/08820807-0fa7-42c4-bc95-7d349a6c2119/9ed2b7eb-fdcb-4b6a-99cc-379702db6b10/Untitled.png)
 ![스크린샷 2024-11-03 오전 8 22 19](https://github.com/user-attachments/assets/b2afda69-92d5-45ad-88f5-c051407c0d36)
 
 # Optimization of Parameterized Policies
